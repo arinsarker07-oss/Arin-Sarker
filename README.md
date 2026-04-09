@@ -2,12 +2,12 @@
 ### Frontend Developer | Life-Long Learner
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=250&section=header&text=Arin%20Sarker&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=60&descSize=25" width="100%" />
+<img width="1296" height="517" alt="banner" src="https://github.com/user-attachments/assets/56bc4c03-3ff5-40a0-b993-f08cfd23af3f" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Arin+Sarker;Welcome+to+my+GitHub;I+build+beautiful+user+interfaces" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Arin+Sarker;Welcome+to+my+GitHub;I+build+beautiful+user+interfaces" alt="Typing SVG" />
   </a>
 </p>
 
@@ -39,24 +39,20 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username= [arinsarker07]&show_icons=true&theme=dark&hide_border=true&align=center" alt="GitHub Stats" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[arinsarker07]&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arinsarker07-oss &theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arinsarker07-oss&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
 
-### 🌐 Social Links
+### 🌐 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/arin-sarker/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://web.facebook.com/arin57276" target="blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://web.facebook.com/arin57276" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[arinsarker07-oss]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=arinsarker07-oss&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
