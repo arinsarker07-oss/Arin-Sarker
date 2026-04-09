@@ -2,7 +2,7 @@
 ### Frontend Developer | Life-Long Learner
 
 <p align="center">
-  <img src="https://i.ibb.co/6R7m9Z9/frontend-banner.png" alt="Arin Sarker Banner" width="100%">
+ <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=250&section=header&text=Arin%20Sarker&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=60&descSize=25" width="100%" />
 </p>
 
 <p align="center">
